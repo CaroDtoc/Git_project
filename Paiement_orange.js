@@ -1,4 +1,4 @@
 function payerORANGE(montant, téléphone) {
-    console.log('Paiement ORANGE:'  + montant + 'FCFA vers '+ telephone);
-    console.log('Paiement ORANGE effectué avec succès');git 
+    return 'Paiement ORANGE :'  + montant + 'FCFA vers '+ téléphone;
+    let test = "je teste les commit-msg"
 }
