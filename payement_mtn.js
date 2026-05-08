@@ -1,3 +1,4 @@
 function payerMTN(montant, téléphone) {
-    console.log('Paiement MTN :'  + montant + 'FCFA vers '+ telephone);
+    let test = "je teste le post-receive"
+
 }
